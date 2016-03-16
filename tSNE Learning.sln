@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C6925B3B-15BD-1129-DAA4-E6F3B207E2E2}") = "tSNE Learning", "Assembly-CSharp.csproj", "{6E471CB6-5939-96F7-3D7F-83368DC9DCFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E471CB6-5939-96F7-3D7F-83368DC9DCFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E471CB6-5939-96F7-3D7F-83368DC9DCFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E471CB6-5939-96F7-3D7F-83368DC9DCFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E471CB6-5939-96F7-3D7F-83368DC9DCFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
